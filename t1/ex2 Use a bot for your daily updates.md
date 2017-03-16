@@ -5,7 +5,7 @@ You will probably get familiar with the daily routine of posting your updates to
 To this end, you can automate the routine by using a bot - it will message you at a certain time and give you predefined questions to use as a sort of template for the daily update. This way your readers know when to expect a nicely formatted update every day. You just have to respond to a simple questionnaire and the rest is put in your journal by the bot.
 Setting up your update bot can be done by…
 
-* Go to geekbot.io
+* Go to [geekbot.io](geekbot.io)
 * Click “Add to Slack” button
 * Choose the X-Team Slack (you may need to log in)
 * Authorize the Geekbot
@@ -19,7 +19,7 @@ Setting up your update bot can be done by…
   * Open Slack and invite Geekbot to your work journal channel
   * Your Daily Update bot is now set up!
 
-Revisit geekbot.io when you want to change settings.
+Revisit [geekbot.io](geekbot.io) when you want to change settings.
 
 After a while you may want to edit your questions, either the text itself, add more or have less. The important thing is that you adapt it to your situation and it makes sense for you and your readers.
 
