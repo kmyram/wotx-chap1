@@ -15,3 +15,5 @@ Make sure to update with other exceptions such time off, travel and other situat
 
 
 Don't expect people to remember everything if only posted in Slack, instead make it easier for them to stay updated.
+
+[_go to exercise #5_](ex5%20Choose%20a%20day%20when%20you%20will%20start%2030.md)
