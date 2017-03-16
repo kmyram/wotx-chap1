@@ -37,3 +37,5 @@ Your Daily Update bot is now set up!
 Revisit geekbot.io when you want to change settings.
 
 After a while you may want to edit your questions, either the text itself, add more or have less. The important thing is that you adapt it to your situation and it makes sense for you and your readers.
+
+[_go to exercise #3_](ex3%20Don't%20forget%20to%20talk%20to%20your%20team.md)

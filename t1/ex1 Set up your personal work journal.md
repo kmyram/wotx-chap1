@@ -10,4 +10,4 @@ Invite your teammates so you can share with them.
 
 Congratulations! You have a personal work journal.
 
-[_go to exercise #2_](t1%20Keep%20a%20personal%20work%20journal.md)
+[_go to exercise #2_](ex2%20Use%20a%20bot%20for%20your%20daily%20updates.md)
