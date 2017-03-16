@@ -8,6 +8,7 @@ Setting it up is as easy as…
 
 - Choose a private channel, give it a proper name, e.g. “henrys-journal” and fill in the description. When you hit “Create Channel” you’re taken to the work journal. Start filling in information and post some messages.
 Invite your teammates so you can share with them.
+![Edit the new Slack channel](WotX%20-%20tech1%20-%20exercise1%20-%20create%20channel%20-%202.png)
 
 Congratulations! You have a personal work journal.
 
