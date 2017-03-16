@@ -9,4 +9,4 @@ Working in an office you are always visible to your co-workers. From when you co
 **When you communicate you are visible and available** which helps your team to know not only what you are doing but also that you are there to help. When you “drop off the radar screen” by not communicating you make those you work with afraid or confused.  
 Admittedly, it is not easy to master but with some techniques you can learn how to improve your communication and collaborate in a distributed team.
 
-[_go to technigue #1_](t1/t1 Keep a personal work journal.md)
+[_go to technigue #1_](t1/t1%20Keep%20a%20personal%20work%20journal.md)
