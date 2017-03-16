@@ -16,6 +16,7 @@ Whenever you talk about a blocker, also write about what you will do in the mean
 Try to list potential blockers as well, like a "known unknown" or a grey-area which you're not certain about yet.
 Don't be shy to talk about blockers, even if you're still making gradual progress. If something is taking you significantly longer than you expected, this is a good place to bring it up. Try to identify the reasons why it's taking longer.
 
-
 Reflection, retrospective: Notes arising from your experience of doing the work.
 Think about future maintainers of the code, or other people doing similar activities in future. Are there things they'll need to keep in mind, or things that will make their job easier? If you were to implement this feature again in future, are there things you would do differently? Any known tradeoffs or pros/cons of the approach you took, especially if it has impact on other parts of the system.
+
+[_go to exercise #1_](ex1%20Set%20up%20your%20personal%20work%20journal.md)
