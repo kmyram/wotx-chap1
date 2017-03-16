@@ -7,3 +7,5 @@ One thing that you may need to get used to, when working in a distributed team, 
 A good way to start forming this habit, and a bare-minimum of daily communication, is to say Hello when you start your day. Even if nobody else is online yet, jump in Slack and say something like: "Hi team, I'm ready for a new day". From there you can build on with any interesting things you think everybody should know and not just your journal.
 
 For more inspiration, have a read of https://x-team.com/2016/02/developer-daily-standup/
+
+[_go to technique #2_](../t2/t2%20Sharing%20your%20availability.md)
